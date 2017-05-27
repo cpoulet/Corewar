@@ -10,7 +10,7 @@ These battle programs are written in an abstract assembly language called Redcod
 We don't use the same set of assembly instruction as the original Corewar and we have some modulo limitation about the distance to read and write.
 This project was the final project of the Algorithm branch and we wrote it has a team with :
 * [benjamin](https://github.com/bduron)
-* kevin
+* [kevin](https://github.com/kcosta42)
 * pierre
 * and me
 
