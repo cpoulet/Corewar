@@ -11,15 +11,15 @@ We don't use the same set of assembly instruction as the original Corewar and we
 This project was the final project of the Algorithm branch and we wrote it has a team with :
 * [benjamin](https://github.com/bduron)
 * [kevin](https://github.com/kcosta42)
-* pierre
+* [pierre](https://github.com/wolrajhti)
 * and me
 
 Our vizualisator
 ======
 
-[![giphy.gif](https://s17.postimg.org/awlzc9xz3/giphy.gif)](https://postimg.org/image/qi3aw89x7/)
+[![giphy.gif](https://raw.githubusercontent.com/cpoulet/Corewar/master/gif/Corewar.gif)](https://raw.githubusercontent.com/cpoulet/Corewar/master/gif/Corewar.gif)
 
-[![Life.gif](https://s10.postimg.org/a62mdfz61/giphy_1.gif)](https://postimg.org/image/h9aht24lh/)
+[![Life.gif](https://raw.githubusercontent.com/cpoulet/Corewar/master/gif/Life.gif)](https://raw.githubusercontent.com/cpoulet/Corewar/master/gif/Life.gif)
 
 Usage
 ======
